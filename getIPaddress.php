@@ -1,7 +1,7 @@
 <?php
 
 function getIPaddress(){
-    $IPaddress='';
+    $IPaddress = '';
     if (isset($_SERVER)){
         if (isset($_SERVER["HTTP_X_FORWARDED_FOR"])){
             $IPaddress = $_SERVER["HTTP_X_FORWARDED_FOR"];
