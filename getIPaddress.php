@@ -19,5 +19,6 @@ function getIPaddress(){
             $IPaddress = getenv("REMOTE_ADDR");
         }
     }
-    return $IPaddress;
+    echo '<pre>';
+    var_dump($IPaddress);
 }
