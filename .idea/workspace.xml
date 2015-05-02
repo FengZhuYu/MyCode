@@ -2,371 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19f2d45e-6fdf-4037-a6a4-a220269c1d0b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Common/functions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Conf/convention.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Conf/debug.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Lang/en-us.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Lang/pt-br.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Lang/zh-cn.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Lang/zh-tw.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Behavior/AgentCheckBehavior.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Behavior/BorisBehavior.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Behavior/BrowserCheckBehavior.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Behavior/BuildLiteBehavior.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Behavior/CheckActionRouteBehavior.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Behavior/CheckLangBehavior.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Behavior/ChromeShowPageTraceBehavior.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Behavior/ContentReplaceBehavior.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Behavior/CronRunBehavior.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Behavior/FireShowPageTraceBehavior.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Behavior/ParseTemplateBehavior.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Behavior/ReadHtmlCacheBehavior.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Behavior/RobotCheckBehavior.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Behavior/ShowPageTraceBehavior.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Behavior/ShowRuntimeBehavior.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Behavior/TokenBuildBehavior.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Behavior/UpgradeNoticeBehavior.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Behavior/WriteHtmlCacheBehavior.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Org/Net/Http.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Org/Net/IpLocation.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Org/Util/ArrayList.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Org/Util/CodeSwitch.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Org/Util/Date.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Org/Util/Rbac.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Org/Util/Stack.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Org/Util/String.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/App.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Auth.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Behavior.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Build.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Cache.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Cache/Driver/Apachenote.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Cache/Driver/Apc.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Cache/Driver/Db.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Cache/Driver/Eaccelerator.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Cache/Driver/File.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Cache/Driver/Memcache.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Cache/Driver/Memcached.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Cache/Driver/Memcachesae.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Cache/Driver/Redis.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Cache/Driver/Shmop.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Cache/Driver/Sqlite.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Cache/Driver/Wincache.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Cache/Driver/Xcache.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Controller.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Controller/HproseController.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Controller/JsonRpcController.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Controller/RestController.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Controller/RpcController.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Controller/YarController.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Crypt.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Crypt/Driver/Base64.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Crypt/Driver/Crypt.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Crypt/Driver/Des.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Crypt/Driver/Think.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Crypt/Driver/Xxtea.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Db.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Db/Driver.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Db/Driver/Firebird.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Db/Driver/Mongo.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Db/Driver/Oracle.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Db/Driver/Pgsql.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Db/Driver/Sqlsrv.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Db/Lite.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Dispatcher.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Exception.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Hook.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Image.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Image/Driver/GIF.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Image/Driver/Gd.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Image/Driver/Imagick.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Log.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Log/Driver/File.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Log/Driver/Sae.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Model.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Model/AdvModel.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Model/MergeModel.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Model/MongoModel.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Model/RelationModel.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Model/ViewModel.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Page.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Route.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Session/Driver/Db.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Session/Driver/Memcache.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Storage.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Storage/Driver/File.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Storage/Driver/Sae.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Template.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Template/Driver/Ease.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Template/Driver/Lite.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Template/Driver/Mobile.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Template/Driver/Smart.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Template/Driver/Smarty.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Template/TagLib.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Template/TagLib/Cx.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Template/TagLib/Html.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Think.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Upload.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Upload/Driver/Bcs.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Upload/Driver/Bcs/bcs.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Upload/Driver/Bcs/mimetypes.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Upload/Driver/Bcs/requestcore.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Upload/Driver/Ftp.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Upload/Driver/Local.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Upload/Driver/Qiniu.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Upload/Driver/Qiniu/QiniuStorage.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Upload/Driver/Sae.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Upload/Driver/Upyun.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Verify.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Verify/bgs/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Verify/bgs/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Verify/bgs/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Verify/bgs/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Verify/bgs/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Verify/bgs/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Verify/bgs/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Verify/bgs/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Verify/ttfs/1.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Verify/ttfs/2.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Verify/ttfs/3.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Verify/ttfs/4.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Verify/ttfs/5.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/Verify/ttfs/6.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Think/View.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Boris/Boris.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Boris/CLIOptionsHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Boris/ColoredInspector.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Boris/Config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Boris/DumpInspector.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Boris/EvalWorker.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Boris/ExportInspector.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Boris/Inspector.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Boris/ReadlineClient.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Boris/ShallowParser.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/EaseTemplate/template.core.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/EaseTemplate/template.ease.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Hprose/HproseClassManager.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Hprose/HproseClient.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Hprose/HproseCommon.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Hprose/HproseFormatter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Hprose/HproseHttpClient.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Hprose/HproseHttpServer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Hprose/HproseIO.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Hprose/HproseIOStream.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Hprose/HproseReader.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Hprose/HproseTags.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Hprose/HproseWriter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/README.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/SmartTemplate/class.smarttemplate.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/SmartTemplate/class.smarttemplatedebugger.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/SmartTemplate/class.smarttemplateparser.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/Smarty.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/SmartyBC.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/debug.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/block.textformat.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/function.counter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/function.cycle.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/function.fetch.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_checkboxes.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_image.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_options.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_radios.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_select_date.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_select_time.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_table.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/function.mailto.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/function.math.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.capitalize.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.date_format.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.debug_print_var.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.escape.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.regex_replace.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.replace.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.spacify.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.truncate.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.cat.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.count_characters.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.count_paragraphs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.count_sentences.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.count_words.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.default.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.escape.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.from_charset.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.indent.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.lower.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.noprint.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.string_format.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.strip.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.strip_tags.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.to_charset.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.unescape.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.upper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.wordwrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/outputfilter.trimwhitespace.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/shared.escape_special_chars.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/shared.literal_compiler_param.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/shared.make_timestamp.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/shared.mb_str_replace.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/shared.mb_unicode.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/shared.mb_wordwrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/plugins/variablefilter.htmlspecialchars.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_cacheresource.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_cacheresource_custom.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_cacheresource_keyvaluestore.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_config_source.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_cacheresource_file.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_append.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_assign.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_block.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_break.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_call.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_capture.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_config_load.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_continue.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_debug.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_eval.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_extends.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_for.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_foreach.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_function.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_if.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_include.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_include_php.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_insert.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_ldelim.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_nocache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_block_plugin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_function_plugin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_modifier.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_object_block_function.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_object_function.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_print_expression.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_registered_block.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_registered_function.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_special_variable.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_rdelim.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_section.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_setfilter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_while.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compilebase.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_config_file_compiler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_configfilelexer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_configfileparser.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_data.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_debug.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_filter_handler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_function_call_handler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_get_include_path.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_nocache_insert.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_parsetree.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_eval.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_extends.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_file.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_php.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_registered.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_stream.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_string.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_smartytemplatecompiler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_template.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_templatebase.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_templatecompilerbase.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_templatelexer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_templateparser.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_utility.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_write_file.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_resource.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_resource_custom.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_resource_recompiled.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_resource_uncompiled.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_security.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/TemplateLite/class.compiler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/TemplateLite/class.config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/TemplateLite/class.template.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.compile_config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.compile_custom_block.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.compile_custom_function.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.compile_if.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.generate_compiler_debug_output.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.include.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.parse_is_expr.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.section_start.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/TemplateLite/internal/debug.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/TemplateLite/internal/template.build_dir.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/TemplateLite/internal/template.config_loader.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/TemplateLite/internal/template.destroy_dir.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/TemplateLite/internal/template.fetch_compile_include.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/TemplateLite/internal/template.generate_debug_output.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/jsonRPC/jsonRPCClient.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/jsonRPC/jsonRPCServer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/bigint.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/compat.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/dhparams.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/dhparams/1024.dhp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/dhparams/128.dhp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/dhparams/1536.dhp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/dhparams/160.dhp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/dhparams/192.dhp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/dhparams/2048.dhp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/dhparams/256.dhp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/dhparams/3072.dhp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/dhparams/4096.dhp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/dhparams/512.dhp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/dhparams/768.dhp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/dhparams/96.dhp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/CREDITS" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/INSTALL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/config.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/config.w32" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/php_xxtea.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/php_xxtea.dsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/php_xxtea.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/php_xxtea.sln" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/php_xxtea.vcproj" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/test/test.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/xxtea.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/xxtea.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/phprpc_client.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/phprpc_date.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/phprpc_server.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/phpRPC/xxtea.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/spyc/COPYING" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/spyc/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/spyc/Spyc.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/spyc/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/spyc/examples/yaml-dump.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/spyc/examples/yaml-load.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/spyc/php4/5to4.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/spyc/php4/spyc.php4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/spyc/php4/test.php4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/spyc/spyc.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/spyc/tests/DumpTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/spyc/tests/IndentTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/spyc/tests/ParseTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/spyc/tests/RoundTripTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/spyc/tests/comments.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/spyc/tests/failing1.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/spyc/tests/indent_1.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Library/Vendor/spyc/tests/quotes.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Mode/Api/App.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Mode/Api/Controller.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Mode/Api/Dispatcher.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Mode/Api/functions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Mode/Sae/convention.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Mode/api.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Mode/common.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Mode/sae.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/ThinkPHP.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Tpl/dispatch_jump.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Tpl/page_trace.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/Tpl/think_exception.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPHP3.2.2/ThinkPHP/logo.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/document/Linux.txt" afterPath="$PROJECT_DIR$/document/Linux.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MyCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -395,27 +31,17 @@
         <entry file="file://$PROJECT_DIR$/document/Linux.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1558">
-              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tp/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.142858" vertical-offset="0" max-vertical-offset="437">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tp/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14136904" vertical-offset="0" max-vertical-offset="798">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.3100233" vertical-offset="0" max-vertical-offset="437">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -502,38 +128,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="document" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -599,7 +193,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921812" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32921812" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -674,22 +268,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/document/Linux.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1558">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tp/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.142858" vertical-offset="0" max-vertical-offset="437">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tp/Public/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="672">
@@ -698,10 +276,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tp/App/Home/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="669">
+          <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tp/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14136904" vertical-offset="0" max-vertical-offset="798">
+        <state vertical-scroll-proportion="0.2199074" vertical-offset="0" max-vertical-offset="798">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/Linux.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1558">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tp/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3100233" vertical-offset="0" max-vertical-offset="437">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
