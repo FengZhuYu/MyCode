@@ -5,11 +5,15 @@ use Think\Controller;
 class IndexController extends Controller {
 
     public function indexAction(){
-
         $this->display();
     }
 
     public function testAction() {
-        echo date('Y-m-d H:i:s');
+//
+//        $memory = memory_get_usage();
+//        $memory = $memory / 1024 / 1024;
+//        var_dump($memory);
+        $time = microtime();
+        echo $time;
     }
 }

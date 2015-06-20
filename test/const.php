@@ -1,3 +1,20 @@
 <?php
+$server = $_SERVER;
+$session = $_SESSION;
+$cookie = $_COOKIE;
+$env = $_ENV;
+$globals = $GLOBALS;
+$globals = array_keys($globals);
+$files = $_FILES;
 echo '<pre>';
-var_dump($_SERVER);
+//var_dump($files);
+echo '<hr />';
+var_dump($globals);
+echo '<hr />';
+var_dump($env);
+echo '<hr />';
+var_dump($cookie);
+echo '<hr />';
+var_dump($server);
+echo '<hr />';
+var_dump($session);
